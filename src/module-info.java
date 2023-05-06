@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author drama
+ *
+ */
+module SchoolManage {
+}
